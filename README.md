@@ -1,7 +1,7 @@
 Notes App
 =========
 
-The Challenge
+The Project
 -----
 This is a front-end, single page web app built in pure Javascript as part of the Maker's Academy course.  This particular project could be built in teams, or in pairs.  I opted to work as part of a team, and my three colleagues and I completed this project in just under three days.   
 
@@ -12,7 +12,15 @@ The App
 We created this SPA so that a user is able to create a note, see that note saved elsewhere on the page, and then click on that link to bring it onto the 'remember' section; if a note was longer than 20 characters then it is abbreviated and a '...' is shown at the end to show there is more to be read.
 
 
-![alt tag](https://github.com/kpobeenorris/notes-app/Screen Shot 2017-01-20 at 10.58.29.png)
+![alt tag](https://raw.githubusercontent.com/kpobeenorris/notes-app/Screen Shot 2017-01-20 at 10.58.29.png)
+
+At time of completion the SPA did not have data persistence; each time the page is refreshed the data is lost.  If time had permitted the plan would have been to have been to build in a database for persistence.  
+
+Instructions
+------
+* Clone the repo: https://github.com/KPobeeNorris/notes-app.git
+* cd notes-app
+* open index.html
 
 
 User Stories

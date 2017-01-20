@@ -12,8 +12,6 @@ The App
 We created this SPA so that a user is able to create a note, see that note saved elsewhere on the page, and then click on that link to bring it onto the 'remember' section; if a note was longer than 20 characters then it is abbreviated and a '...' is shown at the end to show there is more to be read.
 
 
-![alt tag](https://github.com/kpobeenorris/notes-app/Screenshot.png)
-
 At time of completion the SPA did not have data persistence; each time the page is refreshed the data is lost.  If time had permitted the plan would have been to have been to build in a database for persistence.  
 
 Instructions

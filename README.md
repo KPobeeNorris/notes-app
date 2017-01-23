@@ -9,8 +9,9 @@ The only guidance we were given to complete this SPA were three user stories (se
 
 The App
 -----
-We created this SPA so that a user is able to create a note, see that note saved elsewhere on the page, and then click on that link to bring it onto the 'remember' section; if a note was longer than 20 characters then it is abbreviated and a '...' is shown at the end to show there is more to be read.
+We created this SPA so that a user is able to create a note, see that note saved elsewhere on the page, and then click on that link to bring it onto the 'remember' section; if a note was longer than 20 characters then it is abbreviated and a '...' is shown at the end to indicate there is more content to be read.
 
+![screenshot](https://cloud.githubusercontent.com/assets/20423761/22201966/e3f5bbb6-e15d-11e6-9e48-7c6ccd378d38.png)
 
 At time of completion the SPA did not have data persistence; each time the page is refreshed the data is lost.  If time had permitted the plan would have been to have been to build in a database for persistence.  
 

@@ -3,9 +3,7 @@ Notes App
 
 The Project
 -----
-This is a front-end, single page web app built in pure Javascript as part of the Maker's Academy course.  This particular project could be built in teams, or in pairs.  I opted to work as part of a team, and my three colleagues and I completed this project in just under three days.   
-
-The only guidance we were given to complete this SPA were three user stories (see below), and whilst using a TDD approach we were not allowed to use any existing testing frameworks.  Therefore, any tests seen are those that were designed and written by the team.
+This is a front-end, single page web app built in pure Javascript as part of the Maker's Academy course.  This particular project could be built in teams, or in pairs.  I opted to work as part of a team, and my three colleagues and I completed this project in just under three days.  The only guidance we were given to complete this SPA were three user stories (see below) and resources to use as this was everyone's first experience with creating SPAs.
 
 The App
 -----
@@ -21,7 +19,6 @@ Instructions
 * cd notes-app
 * open index.html
 
-
 User Stories
 -----
 
@@ -36,3 +33,6 @@ So I can record something I need to remember
 As a programmer  
 I can see the full text of an individual note on its own page  
 So I can see all the information in the note  
+
+Contributors:
+[Blanca Mendizabal Perello](https://github.com/groundberry) | [Dionysis Kastellanis](https://github.com/diok22) | [Anna Lucking](https://github.com/ALucking1)

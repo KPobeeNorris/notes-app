@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/groundberry/notes-app#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.12.0"
   }
 }
